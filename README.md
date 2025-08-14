@@ -29,10 +29,10 @@ you can see what else i'm up to [here](https://projects.sylfr.dev).
 [![My Skills](https://skillicons.dev/icons?i=ts,tailwind,react,next,vue,nuxt,astro,svelte,vercel,supabase,pnpm,postgres,nix,rust,cs,neovim,vscodium,webstorm)](https://skillicons.dev)
 
 ### 📲 you can reach me at the following
-- my website: `[wip](https://sylfr.dev)`
-- bsky: `[@sylfr.dev](https://bsky.app/profile/sylfr.dev)`
+- my website: [`wip`](https://sylfr.dev)
+- bsky: [`@sylfr.dev`](https://bsky.app/profile/sylfr.dev)
 - discord: `sylfr`
-- email: `syl \\at\\ sylfr \\dot\\ dev`
+- email: `syl \at\ sylfr \dot\ dev`
 
 ### 🎵 and this is what i'm currently listening to
 <img src="https://lastfm-profile-readme.vercel.app/api/sylfr" width="400" alt="Last.fm">
