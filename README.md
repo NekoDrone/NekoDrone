@@ -1,6 +1,6 @@
 ### ✨ hi! i'm syl ^^
 
-i also (apparently) go by many other names online. here's a regex to help `/(s(yl(fr|(f|v|l)ie|$)|eren(ity|$)?|elfie$|alsa$))|nekodrone/gim`
+i also (apparently) go by many other names online. here's a regex to help `/(s(yl(fr|(f|v|l)ie|$)|eren(ity|$)|elfie$|alsa$))|nekodrone/gim`
 
 i'm a software dev from 🇸🇬 working on a whole bunch of stuff.
 
