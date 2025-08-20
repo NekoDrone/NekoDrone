@@ -1,3 +1,5 @@
+software [goldweaver](https://honkai-star-rail.fandom.com/wiki/Aglaea)
+
 ### ✨ hi! i'm 𝓼𝔂𝓵 ^^
 
 i also (apparently) go by many other names online. here's a regex to help<br>`/(s(yl(fr|(f|v|l)ie|$)|eren(ity|$)|elfie$|alsa$))|nekodrone|pea/gim`
