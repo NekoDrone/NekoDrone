@@ -2,7 +2,7 @@ software [goldweaver](https://honkai-star-rail.fandom.com/wiki/Aglaea)
 
 ### ✨ hi! i'm 𝓼𝔂𝓵 ^^
 
-i also (apparently) go by many other names online. here's a regex to help<br>`/(s(yl(fr|(f|v|l)ie|$)|eren(ity|$)|elfie$|alsa$))|nekodrone|pea/gim`
+i also (apparently) go by many other names online. here's a regex to help<br>`/(s(yl(fr|(f|v|l)ie|$)|er(i{1,}|en(ity|$))|elfie$|alsa$))|nekodrone|pea/gim`
 
 i'm a software dev from 🇸🇬 working on a whole bunch of stuff.
 
