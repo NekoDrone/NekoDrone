@@ -37,4 +37,4 @@ you can see what else i'm up to [here](https://projects.sylfr.dev).
 - email: `syl \at\ sylfr \dot\ dev`
 
 ### 🎵 and this is what i'm currently listening to
-<img src="https://lastfm-profile-readme.vercel.app/api/sylfr" width="400" alt="Last.fm">
+<img src="https://github-readme-lastfm.vercel.app/?username=sylfr" width="400" alt="Last.fm">
